@@ -1,0 +1,8 @@
+{
+  "name": "Vespera & Co.",
+  "description": "Luxury US-based women's handbag and accessories storefront designed in SoHo, New York.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
